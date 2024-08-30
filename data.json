@@ -1,0 +1,12 @@
+{
+    "1": {
+        "description": "Lunch",
+        "amount": "20",
+        "date": "2024-08-30"
+    },
+    "2": {
+        "description": "Dinner",
+        "amount": "10",
+        "date": "2024-08-30"
+    }
+}
